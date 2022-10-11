@@ -17,7 +17,7 @@ Muestra al usuario su impuesto a pagar dependiendo de su renta anual
 
 
 <div align= "center">
-<img src= "E1.png" />
+<img src= "imagesu2/E1.png" />
 </div>
 
 
