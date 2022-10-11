@@ -1,3 +1,7 @@
+/*Autor: Izhak Horacio Flores Triana
+ISC03A
+Objetivo: Muestra e uso de ciclos*/
+
 #include <iostream>
 
 using namespace std;
