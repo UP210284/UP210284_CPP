@@ -1,5 +1,4 @@
-/*
-U2
+/*U2
 Autor: Izhak Horacio Flores Triana
 ISC03A
 27/09/2022
