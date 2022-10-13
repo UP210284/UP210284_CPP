@@ -1,6 +1,6 @@
 /*Autor: Izhak Horacio Flores Triana
 ISC03A
-Objetivo: hacer una sumatoria, el 7 es para obtener el factorial, el 8 es para resolver una ecuacion cuadratia
+Objetivo: hacer una sumatoria del 1 al 10
 */
 
 #include <iostream>
